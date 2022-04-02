@@ -1,3 +1,2 @@
-a="Hola mundo"
-b="!"
-print(a+b)
+a="Hola mundo."
+print(a)
